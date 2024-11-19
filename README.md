@@ -12,4 +12,4 @@
   
 </div>
 
-![Snake animation](https://github.com/albertomendess/albertomendess/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/albertomendess/albertomendess/blob/output/github-contribution-grid-snake.svg)-->

@@ -3,8 +3,6 @@
 - 🖥️ Trabalho na área de Ciência de Dados e Machine Learning
 - 📒 Estudando Inteligência Artificial
 
-##
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomendess&show_icons=true&theme=blue_navy )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomendess&layout=compact&theme=blue_navy )
 
